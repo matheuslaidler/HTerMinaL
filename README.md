@@ -1,8 +1,8 @@
 # Terminal HTML Theme
 
+![preview](screenshot.png)
  Apenas uma simples página .HTML que simula um terminal (sem interação direta com teclado) para uma tela de boas vindas. Podendo ser usado para outros fins e para estudos. 
 Uma das possibilidades é utilizar esta página em algum CTF que queira monta, com algum contexto e alguma criptografia no terminal, ou uma esteganografia na imagem de fundo e entre outras coisas...(para quem é da área de segurança da informação).
-![preview](screenshot.png)
 
 ## Criação e ideia
  
