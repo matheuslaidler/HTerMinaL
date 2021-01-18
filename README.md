@@ -5,9 +5,9 @@
 Uma das possibilidades é utilizar esta página em algum CTF que queira monta, com algum contexto e alguma criptografia no terminal, ou uma esteganografia na imagem de fundo e entre outras coisas...(para quem é da área de segurança da informação).
 
 Prévias:
-[ Terminal Index - Sem redirecionamento: https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-NoRedirect.html ] - 
-[ Terminal Index - Com redirecionamento via clique: https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-Button.html ] - 
-[ Terminal Index - Com redirecionamento automático: https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-Redirect.html ] - 
+![ Terminal Index - Sem redirecionamento: https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-NoRedirect.html ] - 
+![ Terminal Index - Com redirecionamento via clique: https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-Button.html ] - 
+![ Terminal Index - Com redirecionamento automático: https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-Redirect.html ] - 
 
 ## Criação e ideia
  
