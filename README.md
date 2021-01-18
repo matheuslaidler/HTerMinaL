@@ -4,6 +4,11 @@
  Apenas uma simples página .HTML que simula um terminal (sem interação direta com teclado) para uma tela de boas vindas. Podendo ser usado para outros fins e para estudos. 
 Uma das possibilidades é utilizar esta página em algum CTF que queira monta, com algum contexto e alguma criptografia no terminal, ou uma esteganografia na imagem de fundo e entre outras coisas...(para quem é da área de segurança da informação).
 
+Prévias:
+https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-NoRedirect.html
+https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-Button.html
+https://matheuslaidler.github.io/Terminal-HTML-Theme/Terminal-Redirect.html
+
 ## Criação e ideia
  
  Esta página html foi desenvolvida como meio de estudo e revisão de quando eu estudava front-end. Reutilizando alguns códigos genralizados que se encontra na net e adaptando certas coisas, deu para ter um resultado relativamente bom até.
@@ -14,3 +19,4 @@ Uma das possibilidades é utilizar esta página em algum CTF que queira monta, c
 
 **Matheus Laidler**
 - <https://github.com/matheuslaidler>
+
