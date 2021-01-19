@@ -1,4 +1,4 @@
-# Terminal HTML Theme
+# Terminal HTML Theme  [pt-BR]
 
 ![preview](screenshot.png)
  Apenas uma simples página .HTML que simula um terminal (sem interação direta com teclado) para uma tela de boas vindas. Podendo ser usado para outros fins e para estudos. 
